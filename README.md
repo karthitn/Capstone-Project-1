@@ -13,3 +13,6 @@
 **3. Load Cleaned Data into MongoDB** - Used pymongo to connect and load data. <br/>
 **4. Fetch Data from MongoDB and Load into MySQL** - Retrieved data from MongoDB and Used SQLAlchemy to connect and load data. <br/>
 **5. Querying the DB in Python and Displaying with Streamlit** - Query the data from MySQL and Use Streamlit to display the results. <br/>
+
+**Census.ipynb** - This file has code for Data cleaning and load the cleaned data into Monogo DB, then pull it back and load into MySQL DB. <br/>
+**census.py** - This file has code for Quering MySQL DB and showing output in streamlit.
